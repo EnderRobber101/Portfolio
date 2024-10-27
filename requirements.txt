@@ -4,3 +4,5 @@ autopep8
 
 # App
 flask
+Markdown==3.3.4
+markupsafe
